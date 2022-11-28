@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DAOS2.iml" filepath="$PROJECT_DIR$/DAOS2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAOS2 22-11-23 Threads/DAOS2 22-11-23 Threads.iml" filepath="$PROJECT_DIR$/DAOS2 22-11-23 Threads/DAOS2 22-11-23 Threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Processer 22-11-21/Processer 22-11-21.iml" filepath="$PROJECT_DIR$/Processer 22-11-21/Processer 22-11-21.iml" />
+    </modules>
+  </component>
+</project>
